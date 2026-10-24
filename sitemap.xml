@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gtarideshare.github.io/gta-rideshare-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gtarideshare.github.io/gta-rideshare-guide/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://gtarideshare.github.io/gta-rideshare-guide/zh-hans/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://gtarideshare.github.io/gta-rideshare-guide/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="pa" href="https://gtarideshare.github.io/gta-rideshare-guide/pa/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://gtarideshare.github.io/gta-rideshare-guide/hi/"/>
+    <xhtml:link rel="alternate" hreflang="ur" href="https://gtarideshare.github.io/gta-rideshare-guide/ur/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://gtarideshare.github.io/gta-rideshare-guide/tl/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://gtarideshare.github.io/gta-rideshare-guide/es/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://gtarideshare.github.io/gta-rideshare-guide/fa/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://gtarideshare.github.io/gta-rideshare-guide/ar/"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/zh-hans/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/zh-hant/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/pa/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/hi/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/ur/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/tl/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/es/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/fa/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://gtarideshare.github.io/gta-rideshare-guide/ar/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+</urlset>
